@@ -35,11 +35,14 @@ invisible/
 ⚙️ Setup & Installation
 
 Clone the repository:
+
 git clone https://github.com/aartigupta13/invisible.git
+
 cd invisible
 
 
 Install required dependencies:
+
 pip install opencv-python numpy
 
 
