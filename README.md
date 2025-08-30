@@ -33,7 +33,8 @@ invisible/
 
 1. Clone the repository:
    
-   git clone https://github.com/aartigupta13/invisible.git
+   git clone https://github.com/aartigupta13/invisible.git, 
+
     cd invisible
    
 3. Install required dependencies:
